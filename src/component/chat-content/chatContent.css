@@ -1,0 +1,9 @@
+.chat-content {
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.content-user {
+	display: flex;
+	align-items: center;
+}
